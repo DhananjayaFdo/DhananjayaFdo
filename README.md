@@ -113,11 +113,3 @@
 </div>
 
 ###
-
-<h4 align="center">contributions</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/DhananjayaFdo/DhananjayaFdo/output/snake.svg" alt="Snake animation" />
-
-###
