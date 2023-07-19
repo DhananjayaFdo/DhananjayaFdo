@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="130" src="https://i.gifer.com/3QiV.gif"  />
-</div>
+[![MasterHead](https://i.gifer.com/2of.mp4)]
 
 ###
 
