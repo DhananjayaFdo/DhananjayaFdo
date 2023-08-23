@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://media.tenor.com/VJ501qV8IzIAAAAC/typing-fast.gif"  />
+  <img height="160" src=""  />
 </div>
 
 
