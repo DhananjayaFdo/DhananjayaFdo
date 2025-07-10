@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">print("Hey there 👋 I'm Dhananjaya Fdo")</h1>
+<h1 align="center">print("Hello world! 👋 I'm Dhananjaya Fdo")</h1>
 
 ###
 
@@ -69,7 +69,7 @@ I'm a passionate Mobile Application Developer with several years of hands-on exp
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
 </div>
 
 ---
@@ -116,5 +116,6 @@ I'm a passionate Mobile Application Developer with several years of hands-on exp
 <h4 align="center">📊 Profile Visitors</h4>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DhananjayaFdo/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=DhananjayaFdo&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
+
